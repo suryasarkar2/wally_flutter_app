@@ -1,7 +1,8 @@
 # wally
 
 This is an app which displays image using the firebase database with beautiful smooth animations.
-This project uses Flutter x Firebase.
+
+### This project uses Flutter x Firebase.
 
 
 ## Screenshots
