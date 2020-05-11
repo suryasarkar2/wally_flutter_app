@@ -3,7 +3,7 @@
 This is an app which displays image using the firebase database.
 
 # Screenshots
-![alt text](Screenshots/1.png) ![alt text](Screenshots/3.png) ![alt text](Screenshots/4.png)
+![](Screenshots/1.png) | ![](Screenshots/3.png) | ![](Screenshots/4.png)
 
 
 ## Getting Started
