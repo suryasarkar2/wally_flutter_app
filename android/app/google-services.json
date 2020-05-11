@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748883697545",
+    "firebase_url": "https://wally-4cc53.firebaseio.com",
+    "project_id": "wally-4cc53",
+    "storage_bucket": "wally-4cc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748883697545:android:b05e8f70572d157d41cb58",
+        "android_client_info": {
+          "package_name": "com.suryasarkar.wally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748883697545-tcqqdqhi9rf5lfnn768l7pumlh8ojhpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzWDgaH53O9ilJJWY0zhusmNhE7MLUcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748883697545-tcqqdqhi9rf5lfnn768l7pumlh8ojhpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
