@@ -4,16 +4,23 @@ This is an app which displays image using the firebase database.
 
 # Screenshots
 <p float="center">
-  <img src="Screenshots/1.png" width="320" />
-  <img src="Screenshots/3.png" width="320" /> 
-  <img src="Screenshots/4.png" width="320" />
+  <img src="Screenshots/1.png" width="300" />
+  <img src="Screenshots/3.png" width="300" /> 
+  <img src="Screenshots/4.png" width="300" />
 </p>
 
 
+## Get Sarted
 
-## Getting Started
+1) Clone the repository.
+2) Run "flutter pub get"
+3) Run "flutter run"
+
+
+## About
 
 This project uses Flutter x Firebase.
+
 
 # Inspiration
 
