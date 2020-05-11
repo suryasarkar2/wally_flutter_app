@@ -3,8 +3,11 @@
 This is an app which displays image using the firebase database.
 
 # Screenshots
-<img width="200" height="1000" src="Screenshots/1.png">
-
+<p float="left">
+  <img src="Screenshots/1.png" width="100" />
+  <img src="Screenshots/3.png" width="100" /> 
+  <img src="Screenshots/4.png" width="100" />
+</p>
 
 ![](Screenshots/1.png) | ![](Screenshots/3.png) | ![](Screenshots/4.png)
 
