@@ -1,8 +1,10 @@
 # wally
 
-This is an app which displays image using the firebase database.
+This is an app which displays image using the firebase database with beautiful smooth animations.
+This project uses Flutter x Firebase.
 
-# Screenshots
+
+## Screenshots
 <p float="center">
   <img src="Screenshots/1.png" width="300" />
   <img src="Screenshots/3.png" width="300" /> 
@@ -15,11 +17,6 @@ This is an app which displays image using the firebase database.
 1) Clone the repository.
 2) Run "flutter pub get"
 3) Run "flutter run"
-
-
-## About
-
-This project uses Flutter x Firebase.
 
 
 # Inspiration
